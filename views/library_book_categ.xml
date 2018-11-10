@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<odoo> 
+	<act_window 
+		id="library_book_categ_action" 
+		name="Library Books Category" 
+		res_model="library.book.category" />
+</odoo>
